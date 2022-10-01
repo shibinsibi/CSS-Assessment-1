@@ -1,0 +1,25 @@
+h1 {
+    color: red;
+    font-weight: bold;
+}
+h2 {
+    color: red;
+}
+.common {
+    color: maroon;
+}
+a {
+    color: red;
+    background-color: yellow;
+}
+.test {
+     color: maroon;
+     text-decoration: line-through;
+}
+.test1 {
+    background-color: yellow;
+}
+.space {
+    letter-spacing: 6px;
+    color: maroon;
+}
